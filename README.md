@@ -1,7 +1,7 @@
 # shubham_gadekar.github.io
-# [https://shubhamgadekar07.github.io](https://shubham_gadekar.github.io)
+# [https://shubhamgadekar07.github.io](https://shubhamgadekar07.github.io)
 
-Welcome to my GitHub Pages website! This website is hosted on GitHub Pages and can be accessed at [https://shubhamgadekar.github.io](https://shubhamgadekar07.github.io)
+Welcome to my GitHub Pages website! This website is hosted on GitHub Pages and can be accessed at [https://shubhamgadekar07.github.io](https://shubhamgadekar07.github.io)
 
 ## Overview
 
@@ -26,11 +26,11 @@ This is a personal portfolio or project website built using HTML, CSS, and JavaS
 
 To view the website, simply visit the following link:
 
-[https://shubhamgadekar07.github.io](https://<shubham_gadekar.github.io)
+[https://shubhamgadekar07.github.io](https://<shubhamgadekar07.github.io)
 
 To run the website locally:
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/shubhamgadekar07/shubham_gadekar.github.io.git
+   git clone https://github.com/shubhamgadekar07/shubhamgadekar07.github.io.git
 
