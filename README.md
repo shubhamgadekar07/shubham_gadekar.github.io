@@ -1,7 +1,7 @@
 # shubham_gadekar.github.io
-# [https://shubham_gadekar.github.io](https://shubham_gadekar.github.io)
+# [https://shubhamgadekar07.github.io](https://shubham_gadekar.github.io)
 
-Welcome to my GitHub Pages website! This website is hosted on GitHub Pages and can be accessed at [https://shubham_gadekar.github.io](https://shubham_gadekar.github.io)
+Welcome to my GitHub Pages website! This website is hosted on GitHub Pages and can be accessed at [https://shubhamgadekar07.github.io](https://shubham_gadekar.github.io)
 
 ## Overview
 
@@ -26,7 +26,7 @@ This is a personal portfolio or project website built using HTML, CSS, and JavaS
 
 To view the website, simply visit the following link:
 
-[https://shubham_gadekar.github.io](https://<shubham_gadekar.github.io)
+[https://shubhamgadekar07.github.io](https://<shubham_gadekar.github.io)
 
 To run the website locally:
 
