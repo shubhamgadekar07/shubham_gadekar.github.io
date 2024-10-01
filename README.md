@@ -1,7 +1,7 @@
 # shubham_gadekar.github.io
 # [https://shubhamgadekar07.github.io](https://shubham_gadekar.github.io)
 
-Welcome to my GitHub Pages website! This website is hosted on GitHub Pages and can be accessed at [https://shubhamgadekar07.github.io](https://shubham_gadekar.github.io)
+Welcome to my GitHub Pages website! This website is hosted on GitHub Pages and can be accessed at [https://shubhamgadekar.github.io](https://shubhamgadekar07.github.io)
 
 ## Overview
 
